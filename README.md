@@ -2,7 +2,7 @@
 Rumor Detection on PHEME dataset with Multi-ML Models based on WWW 2020 paper.
 
 ## Result : Performance analysis
-[Result : Performance analysis](../result__performance_analysis)
+[Result : Performance analysis](/tree/master/result__performance_analysis)
 
 ## About
 This is maintained by **Younghwan Kim**.
