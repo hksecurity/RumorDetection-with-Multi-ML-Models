@@ -1,11 +1,12 @@
 # RumorDetection-with-Multi-ML-Models
-Rumor Detection on PHEME dataset with Multi-ML Models based on WWW 2020 paper.
+We created an ensemble solution using multi-ML models to improve the detection of rumor detection, particularly the ones that are new and emerging (i.e., unknown).
 
-## Result : Performance analysis
-[Result : Performance analysis](/result__performance_analysis)
+## Rumor dataset
+We used PHEME dataset (retrieved from : https://figshare.com/articles/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078).
 
-## About
-This is maintained by **Younghwan Kim**.
-> Email: jamesck@hksecurity.net
+## Ensemble solution code
+The implementation of the ensemble solution will be released once the paper has been published. If you would like to access them, please contact Younghwan Kim (e: jamesck@khsecurity.net)
 
-> GitHub[@hkjamesck](https://github.com/hksecurity/RumorDetection-with-Multi-ML-Models)
+## Result dataset
+The overview of results can be found here: [link](/result__performance_analysis)
+Full result dataset will be released once the paper has been published. If you would like to access them, please contact Younghwan Kim (e: jamesck@khsecurity.net)
