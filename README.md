@@ -12,4 +12,4 @@ The overview of results can be found here: [link](/result__performance_analysis)
 Full result dataset will be released once the paper has been published.
 
 ## Technical report
-please contact Younghwan Kim (e: jamesck@khsecurity.net) to view the technical report.
+Please contact Younghwan Kim (e: jamesck@khsecurity.net) to view the technical report.
